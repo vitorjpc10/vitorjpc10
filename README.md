@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! <img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="35"/>
 
 I'm **Vitor Cavalcante**, a seasoned Software Developer with over 2 years of professional experience. I specialize in Java, Python, AWS, GCP, and data integration.
 
