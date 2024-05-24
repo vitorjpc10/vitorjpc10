@@ -6,8 +6,6 @@ I'm **Vitor Cavalcante**, a seasoned Software Developer with over 2 years of pro
 
 ### About Me 🧑‍💻
 
-Hi there! My name is Vitor Cavalcante, a seasoned Software Developer with over 2 years of professional experience. I specialize in Java, Python, AWS, GCP, and data integration.
-
 Throughout my career, I've developed high-performance pipelines, ETL processes, and RESTful APIs using a range of tools, including Java, Scala, Python, SBT, Gradle, and Golang. I've successfully integrated data from multiple sources into AWS and GCP, resulting in improved efficiency, data availability, and targeted campaigns.
 
 I've also refined legacy data connectors, automated data collection, and created comprehensive documentation to streamline workflows and reduce onboarding times. Additionally, I've optimized data ingestion through automation, developed robust ETL frameworks, and enabled efficient querying with AWS Athena and Google BigQuery.
