@@ -1,20 +1,78 @@
 # Hi there! <img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="35"/>
 
-I'm **Vitor Cavalcante**, a seasoned Software Developer with over 5 years of professional experience. I specialize in Java, Python, AWS, GCP, and data integration.
+I'm **Vitor Cavalcante**, a Senior AI Engineer specializing in LLM systems, Retrieval-Augmented Generation (RAG), and Agentic AI architectures.
+
+I design and deploy production-grade AI systems that combine large language models, vector search, and scalable cloud infrastructure to deliver reliable, explainable, and high-precision AI solutions.
 
 ---
 
-### About Me 🧑‍💻
+## 🧠 About Me
 
-Throughout my career, I've developed high-performance pipelines, ETL processes, and RESTful APIs using a range of tools, including Java, Scala, Python, SBT, Gradle, and Golang. I've successfully integrated data from multiple sources into AWS and GCP, resulting in improved efficiency, data availability, and targeted campaigns.
+I focus on building intelligent systems that go beyond prompting — architecting full AI pipelines with retrieval, ranking, orchestration, and infrastructure automation.
 
-I've also refined legacy data connectors, automated data collection, and created comprehensive documentation to streamline workflows and reduce onboarding times. Additionally, I've optimized data ingestion through automation, developed robust ETL frameworks, and enabled efficient querying with AWS Athena and Google BigQuery.
+### 🚀 What I Work On
 
-My academic background in Electrical and Computer Engineering (BS, New York Institute of Technology, GPA 3.9, Summa Cum Laude) has provided a solid foundation in computer science principles and applied mathematics.
+- Designing high-precision RAG systems with contextual and hybrid retrieval  
+- Building agentic AI workflows with structured reasoning and tool orchestration  
+- Optimizing vector search, chunking strategies, and semantic re-ranking  
+- Engineering AI-ready data pipelines for LLM consumption  
+- Automating AI infrastructure using Terraform and CI/CD  
 
-Technologies I'm proficient in include Java, Spring, Google Cloud Platform, AWS, Scala, Go, Python, Git, Postman, JUnit, JSON, YAML, SBT, Gradle, SQL, JavaScript, Spring Cloud, HTML5, CSS3, React, Docker, and BigQuery.
+---
 
-I'm fluent in English and Portuguese, with intermediate proficiency in Spanish. Outside of work, I enjoy audio engineering, music, cooking, and exploring different cuisines, truly a chef at heart.
+## 🏗️ Core Expertise
+
+**AI Engineering**
+- LLMs (GPT-style models)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI & Tool-Using Systems
+- Prompt Engineering
+- Vector Search & Hybrid Retrieval
+- Semantic Re-ranking
+- LangChain & Structured Output Systems
+
+**Backend & APIs**
+- Python (FastAPI, Pydantic)
+- Java (Spring Boot)
+- Microservices Architecture
+- RESTful APIs
+- Data Modeling & Schema Design
+
+**Data & Platforms**
+- Databricks (PySpark)
+- SQL
+- Data Quality & Observability
+- Metadata & Lineage Automation
+
+**Cloud & Infrastructure**
+- Azure (Azure OpenAI, AI Search, AI Foundry)
+- AWS
+- GCP
+- Docker
+- Terraform
+- CI/CD Pipelines
+
+---
+
+## 🎓 Education
+
+**B.S. in Electrical and Computer Engineering**  
+Minor in Applied Mathematics  
+GPA 3.9 – Summa Cum Laude  
+
+---
+
+## 🌎 Languages
+
+- English (Native)
+- Portuguese (Native)
+- Spanish (Intermediate)
+
+---
+
+## 🎧 Beyond Tech
+
+When I’m not building AI systems, I’m into audio engineering, music production, cooking, and exploring global cuisines.
 
 ---
 
